@@ -1,0 +1,8 @@
+ssh -p 2226 narnia2@narnia.labs.overthewire.org 
+/narnia
+/etc/narnia_pass/narnia1  
+
+narnia0: narnia0 
+narnia1: WDcYUTG5ul 
+narnia2: 5agRAXeBdG
+narnia3: 2xszzNl6uG
